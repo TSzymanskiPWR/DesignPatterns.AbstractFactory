@@ -1,0 +1,7 @@
+C:\Users\t\Documents\GitHub\DesignPatterns.AbstractFactory\AbstractFactory\RealLife\bin\Debug\RealLife.exe.config
+C:\Users\t\Documents\GitHub\DesignPatterns.AbstractFactory\AbstractFactory\RealLife\bin\Debug\RealLife.exe
+C:\Users\t\Documents\GitHub\DesignPatterns.AbstractFactory\AbstractFactory\RealLife\bin\Debug\RealLife.pdb
+C:\Users\t\Documents\GitHub\DesignPatterns.AbstractFactory\AbstractFactory\RealLife\obj\Debug\RealLife.csproj.CoreCompileInputs.cache
+C:\Users\t\Documents\GitHub\DesignPatterns.AbstractFactory\AbstractFactory\RealLife\obj\Debug\RealLife.exe
+C:\Users\t\Documents\GitHub\DesignPatterns.AbstractFactory\AbstractFactory\RealLife\obj\Debug\RealLife.pdb
+C:\Users\t\Documents\GitHub\DesignPatterns.AbstractFactory\AbstractFactory\RealLife\obj\Debug\RealLife.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\t\Documents\GitHub\DesignPatterns.AbstractFactory\AbstractFactory\Advanced\bin\Debug\Advanced.exe.config
+C:\Users\t\Documents\GitHub\DesignPatterns.AbstractFactory\AbstractFactory\Advanced\bin\Debug\Advanced.exe
+C:\Users\t\Documents\GitHub\DesignPatterns.AbstractFactory\AbstractFactory\Advanced\bin\Debug\Advanced.pdb
+C:\Users\t\Documents\GitHub\DesignPatterns.AbstractFactory\AbstractFactory\Advanced\obj\Debug\Advanced.csproj.CoreCompileInputs.cache
+C:\Users\t\Documents\GitHub\DesignPatterns.AbstractFactory\AbstractFactory\Advanced\obj\Debug\Advanced.exe
+C:\Users\t\Documents\GitHub\DesignPatterns.AbstractFactory\AbstractFactory\Advanced\obj\Debug\Advanced.pdb
+C:\Users\t\Documents\GitHub\DesignPatterns.AbstractFactory\AbstractFactory\Advanced\obj\Debug\Advanced.csprojResolveAssemblyReference.cache
